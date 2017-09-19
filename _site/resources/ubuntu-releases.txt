@@ -1,0 +1,12 @@
+17.04
+    zesty（详细）
+16.10
+    yakkety（详细）
+16.04
+    xenial（详细）
+15.10
+    willy（详细）
+14.04
+    trusty（详细）
+12.04
+    precise（详细）
